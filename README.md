@@ -2,4 +2,4 @@
 
 ## Repository for Software Development course
 
-![test](./images/Capture.png)
+![test](/images/Capture.PNG)
